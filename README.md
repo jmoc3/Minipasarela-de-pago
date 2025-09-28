@@ -2,7 +2,7 @@
 
 Aplicacion: https://frontend-pasarela-one.vercel.app/
 
-El codigo funete de la aplicacion se encuentra disponible en dos repositorios publicos que pueden mirar en los siguientes enlaces:
+El codigo fuente de la aplicacion se encuentra disponible en dos repositorios publicos que pueden mirar en los siguientes enlaces:
 
 - [frontendPasarela](https://github.com/jmoc3/frontendPasarela)
 - [backendPasarela](https://github.com/jmoc3/backendPasarela)
